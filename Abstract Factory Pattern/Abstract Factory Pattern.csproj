@@ -43,6 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Concrete Factorie\Nokia.cs" />
+    <Compile Include="Concrete Factorie\Samsung.cs" />
+    <Compile Include="Concrete\Genie.cs" />
+    <Compile Include="Concrete\Guru.cs" />
+    <Compile Include="Concrete\Asha.cs" />
+    <Compile Include="Concrete\Galaxy.cs" />
+    <Compile Include="Concrete\Lumia.cs" />
+    <Compile Include="Concrete\Titan.cs" />
+    <Compile Include="IDumbPhone.cs" />
+    <Compile Include="IPhoneFactory.cs" />
+    <Compile Include="ISmartPhone.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
