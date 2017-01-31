@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Concrete Factorie\Nokia.cs" />
+    <Compile Include="Concrete Factorie\PhoneChecker.cs" />
     <Compile Include="Concrete Factorie\Samsung.cs" />
     <Compile Include="Concrete\Genie.cs" />
     <Compile Include="Concrete\Guru.cs" />
